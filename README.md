@@ -1,2 +1,2 @@
-# velosi-laravel
-This is private repo to manage Velosi project Laravel
+# laravel web app
+This is private repo to manage project Laravel
